@@ -1,0 +1,31 @@
+/****Defualt Stayle****/
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.header_carousel .carousel-indicators .active,
+.gear-check {
+    background-color: #5f9ea0;
+}
+
+.about .container h1 span,
+.testimonials span,
+.navbar-inverse .navbar-brand span,
+.footer h3,
+.footer .copyRight span,
+div.arrow,
+.color-option h4 {
+    color: #5f9ea0;
+}
+
+
+.testimonials .carousel-indicators .active,
+.color-option .colors {
+    border: 3px solid #5f9ea0;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    border-top: 3px solid #5f9ea0;
+}

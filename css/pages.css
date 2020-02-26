@@ -1,0 +1,140 @@
+/*Start About Page*/
+/****************************************************************************************************************/
+.nav_about {
+    background-color: #f5f5f5;
+}
+
+.nav_about ol {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0px;
+}
+
+/*****************************************/
+
+.details_about {
+    padding: 70px 0px
+}
+
+.details_about h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.details_about hr {
+    width: 60%;
+    height: 1px;
+    border: none;
+    background-color: #e1e1e1;
+}
+
+.details_about p {
+    margin: 30px 0px 20px;
+}
+
+/*****************************************/
+
+.about_features {
+    padding: 30px 0px 10px;
+}
+
+.about_features div {
+    margin-bottom: 30px;
+}
+
+.about_features h3,
+.about_ceo h2.h1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+.about_features p {
+    font-size: 19px;
+}
+
+/*****************************************/
+
+.about_ceo {
+    background-color: #f5f5f5;
+    padding-top: 40px
+}
+
+.about_ceo h2.h1 {
+    margin-bottom: 30px;
+}
+
+.about_ceo p {
+    line-height: 2em;
+}
+
+.about_ceo .btn {
+    background-color: #333;
+    border-color: #333;
+    margin-bottom: 30px;
+}
+
+/*End About Page*/
+/****************************************************************************************************************/
+
+/*Start FAQ Page*/
+/****************************************************************************************************************/
+.faq_intro {
+    padding: 40px 0px 20px;
+}
+
+.faq_intro h1 {
+    font-weight: bold;
+    font-size: 42px;
+    margin-bottom: 30px;
+    letter-spacing: -3px;
+}
+
+.faq_intro hr {
+    width: 70%;
+    height: 2px;
+    border: none;
+    background-color: #9999995c;
+}
+
+.faq_ques {
+    padding: 40px;
+    background-color: #f5f5f5
+}
+
+.panel-default > .panel-heading {
+    padding: 15px 10px;
+}
+
+.panel-title {
+    font-size: 18px;
+}
+
+.panel-heading a {
+    text-decoration: none;
+    text-shadow: 0px 0px 1px #555;
+}
+
+.panel-heading a:hover {
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.panel-heading a::after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e114";
+    float: right;
+    color: #444;
+}
+
+.panel-heading a.collapsed::after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+    float: right;
+    color: #444;
+}
+
+
+/*End About Page*/
+/****************************************************************************************************************/
