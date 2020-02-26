@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 
@@ -647,7 +648,7 @@
     <!--End Loading-Overlay-->
     
     <script type="text/javascript" src="js/jquery-3.4.0.min.js"></script>
-    <script type="text/javascript" src="Js\bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/bootstrap.min.js"></script>
     <script type="text/javascript" src="js/plugins.js"></script>
     <script type="text/javascript" src="js/wow.min.js"></script>
     <script>new WOW().init();</script>
